@@ -8,7 +8,7 @@ July 2020
 
 I love books and regularly buy commercial books from Audible, Kindle, and other sources.  Like others, I also appreciate finding value for free.  A movement called [open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources) (OER) has been encouraging teachers at all levels to create and release learning materials that anyone can use.  My web searches in this area identified many college-level textbooks on a broad range of subjects.  
 
-I seek to add value by curating the search results into an organized collection of quality books that are easy to download from a single source.  This collection of about 300 books addresses the following subjects among others:
+I seek to add value by curating these search results into an organized collection of quality books that are easy to download from a single web page.  This collection of about 300 books addresses the following subjects among others:
 
 * Physical sciences such as astronomy, biology, chemistry, geology, and physics.
 
