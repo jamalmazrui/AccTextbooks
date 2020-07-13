@@ -1,5 +1,11 @@
 # AccTextbooks
 
+*A collection of free, accessible textbooks.*\
+by Jamal Mazrui\
+July 2020
+
+<http://GitHub.com/JamalMazrui/AccTextbooks>
+
 I love books and regularly buy commercial books from Audible, Kindle, and other sources.  Like others, I also appreciate finding value for free.  A movement called [open educational resources](I love books and regularly buy commercial books from Audible, Kindle, and other sources.  Like others, I also appreciate finding value for free.  A movement called Open Educational Resources (OER) has been encouraging teachers at all levels to create and release learning materials that anyone can use.  My web searches in this area have identified many college-level textbooks on a broad range of subjects.  
 
 I seek to add value by curating these search results into an organized collection of quality books that are easy to download from a single source.  About 300 books cover the following subjects among others:
@@ -26,9 +32,8 @@ I seek to add value by curating these search results into an organized collectio
 The collection tries to maximize accessibility to readers who use assistive technology or mobile devices, choosing reflowable EPUB over fixed-page PDF, when a book was found in both formats.  From either format, I also produced HTML and plain text versions by automated means, so learners can pick the option that works best with their reading system.  Each file is clearly named by the title of its book content, without extraneous words or codes.
 
 
-If you have a Git client, you can clone the whole repository via the following URL:
+If you have a Git client, you can clone the whole repository via the following URL (the web address of the repository):
 
-<http://GitHub.com/JamalMazrui/AccTextbooks.git>
+http://GitHub.com/JamalMazrui/AccTextbooks
 
 Happy reading!
-Jamal
