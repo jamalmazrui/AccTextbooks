@@ -16,9 +16,9 @@ I seek to add value by curating these search results into an organized collectio
 
 * Methodological areas such as accessibility, accounting, communications, mathematics, programming, and statistics.
 
-The collection tries to maximize accessibility to readers who use assistive technology or mobile devices, choosing reflowable EPUB over fixed-page PDF, when a book was found in both formats.  From either format, I also produced HTML and plain text versions by automated means, so learners can pick the option that works best with their reading system.  Each file is clearly named by the title of its book content, without extraneous words or codes.  All .htm versions and all .txt versions may be downloaded together in the archive files named AccTextbooks_htm.zip and AccTextbooks_txt.zip, respectively.
+The collection tries to maximize accessibility to readers who use assistive technology or mobile devices, choosing reflowable EPUB over fixed-page PDF, when a book was found in both formats.  From either format, I also produced HTML and plain text versions (without pictures) by automated means, so learners can pick the option that works best with their reading system.  Each file is clearly named by the title of its book content, without extraneous words or codes.  All .htm versions and all .txt versions may be downloaded together in the archive files named AccTextbooks_htm.zip and AccTextbooks_txt.zip, respectively.
 
-If you have a Git client, you can clone the whole repository via the following URL (the web address of the repository):
+If you have a Git client, you can clone the whole collection via the following URL (the web address of the repository):
 
 http://GitHub.com/JamalMazrui/AccTextbooks
 
