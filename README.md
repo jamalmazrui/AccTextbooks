@@ -3,7 +3,7 @@
 *A collection of free, accessible textbooks.*\
 
 by Jamal Mazrui\
-July 2020
+August 2020
 
 Available from\
 <http://GitHub.com/JamalMazrui/AccTextbooks>
